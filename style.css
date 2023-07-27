@@ -16,6 +16,11 @@ body {
     height: 100vh;
     /* background: linear-gradient(to right, #3384e0, #4281b0,rgb(90, 143, 228)); */
 }
+h2{
+  color: #c8d7ef;
+  font-weight: 900;
+  font-size: 2rem;
+}
 
 section {
     display: flex;
